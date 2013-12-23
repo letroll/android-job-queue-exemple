@@ -44,6 +44,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
 /project.properties
 /proguard-project.txt
 .settings
